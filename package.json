@@ -9,15 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KauanMesquita/Rest-com-NodeJS-API-com-Express-e-MySQL.git"
+    "url": "git+https://github.com/KauanMesquita/Rest-com-NodeJS-API-com-Express-e-MySQL"
   },
   "author": "Kauan Mesquita",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KauanMesquita/Rest-com-NodeJS-API-com-Express-e-MySQL.git"
+    "url": "https://github.com/KauanMesquita/Rest-com-NodeJS-API-com-Express-e-MySQL"
   },
-  "homepage": "https://github.com/KauanMesquita/Rest-com-NodeJS-API-com-Express-e-MySQL.git",
+  "homepage": "https://github.com/KauanMesquita/Rest-com-NodeJS-API-com-Express-e-MySQL",
   "dependencies": {
+    "axios": "^0.19.1",
     "consign": "^0.1.6",
     "express": "^4.17.1",
     "moment": "^2.24.0",
